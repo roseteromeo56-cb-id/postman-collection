@@ -98,6 +98,9 @@
     "eslint-plugin-lodash": "^8.0.0",
  dependabot/npm_and_yarn/eslint-plugin-n-17.18.0
     "eslint-plugin-mocha": "^10.5.0",
+ dependabot/npm_and_yarn/eslint-plugin-n-17.19.0
+    "eslint-plugin-n": "^17.19.0",
+
  dependabot/npm_and_yarn/eslint-plugin-n-17.20.0
     "eslint-plugin-n": "^17.20.0",
 
@@ -105,6 +108,7 @@
 
     "eslint-plugin-mocha": "^11.0.0",
     "eslint-plugin-n": "^16.6.2",
+ develop
  develop
  develop
     "eslint-plugin-security": "^2.1.1",
