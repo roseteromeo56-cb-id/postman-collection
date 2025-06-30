@@ -32,7 +32,7 @@
     "test-unit": "nyc --nycrc-path=.nycrc.js node npm/test-unit.js"
   },
   "dependencies": {
-    "@faker-js/faker": "5.5.3",
+    "@faker-js/faker": "9.8.0",
     "file-type": "3.9.0",
     "http-reasons": "0.1.0",
     "iconv-lite": "0.6.3",
@@ -41,24 +41,55 @@
     "mime-format": "2.0.2",
     "mime-types": "2.1.35",
     "postman-url-encoder": "3.0.7",
-    "semver": "7.7.1",
+    "semver": "7.7.2",
     "uuid": "8.3.2"
   },
   "devDependencies": {
     "@postman/shipit": "^0.4.0",
-    "@stylistic/eslint-plugin-js": "^1.8.0",
+    "@stylistic/eslint-plugin-js": "^4.2.0",
     "async": "^3.2.6",
     "bipbip": "^0.4.2",
     "browserify": "^17.0.1",
     "btoa": "^1.2.1",
-    "chai": "^4.5.0",
+    "chai": "^5.2.0",
     "chalk": "^4.1.2",
     "dependency-check": "^4.1.0",
+ dependabot/npm_and_yarn/eslint-9.27.0
+    "eslint": "^9.27.0",
+
+ dependabot/npm_and_yarn/eslint-9.28.0
+    "eslint": "^9.28.0",
+
+ dependabot/npm_and_yarn/eslint-plugin-jsdoc-50.7.1
     "eslint": "^8.57.0",
+    "eslint-plugin-jsdoc": "^50.7.1",
+
+ dependabot/npm_and_yarn/eslint-9.29.0
+    "eslint": "^9.29.0",
+ develop
+ develop
     "eslint-plugin-jsdoc": "^47.0.2",
-    "eslint-plugin-lodash": "^7.4.0",
+
+    "eslint": "^8.57.0",
+ dependabot/npm_and_yarn/eslint-plugin-jsdoc-51.0.1
+    "eslint-plugin-jsdoc": "^51.0.1",
+
+ dependabot/npm_and_yarn/eslint-plugin-jsdoc-51.0.4
+    "eslint-plugin-jsdoc": "^51.0.4",
+
+    "eslint-plugin-jsdoc": "^50.6.17",
+ develop
+ develop
+ develop
+ develop
+    "eslint-plugin-lodash": "^8.0.0",
+ dependabot/npm_and_yarn/eslint-plugin-n-17.18.0
     "eslint-plugin-mocha": "^10.5.0",
+    "eslint-plugin-n": "^17.18.0",
+
+    "eslint-plugin-mocha": "^11.0.0",
     "eslint-plugin-n": "^16.6.2",
+ develop
     "eslint-plugin-security": "^2.1.1",
     "js-yaml": "^4.1.0",
     "jsdoc": "^4.0.4",
@@ -75,7 +106,7 @@
     "recursive-readdir": "^2.2.3",
     "require-all": "^3.0.0",
     "shelljs": "^0.8.5",
-    "strip-json-comments": "^3.1.1",
+    "strip-json-comments": "^5.0.2",
     "tsd-jsdoc": "^2.5.0"
   },
   "engines": {
