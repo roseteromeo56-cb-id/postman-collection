@@ -67,6 +67,9 @@
 
  dependabot/npm_and_yarn/eslint-plugin-jsdoc-50.7.1
     "eslint": "^8.57.0",
+ dependabot/npm_and_yarn/eslint-plugin-jsdoc-51.2.3
+    "eslint-plugin-jsdoc": "^51.2.3",
+
     "eslint-plugin-jsdoc": "^50.7.1",
 
  dependabot/npm_and_yarn/eslint-9.29.0
@@ -83,6 +86,7 @@
     "eslint-plugin-jsdoc": "^51.0.4",
 
     "eslint-plugin-jsdoc": "^50.6.17",
+ develop
  develop
  develop
  develop
