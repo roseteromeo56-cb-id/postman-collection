@@ -54,6 +54,9 @@
     "chai": "^5.2.0",
     "chalk": "^4.1.2",
     "dependency-check": "^4.1.0",
+ dependabot/npm_and_yarn/eslint-9.27.0
+    "eslint": "^9.27.0",
+
  dependabot/npm_and_yarn/eslint-9.28.0
     "eslint": "^9.28.0",
 
@@ -63,6 +66,7 @@
 
  dependabot/npm_and_yarn/eslint-9.29.0
     "eslint": "^9.29.0",
+ develop
  develop
     "eslint-plugin-jsdoc": "^47.0.2",
 
