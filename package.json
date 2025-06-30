@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "9.8.0",
-    "file-type": "3.9.0",
+    "file-type": "21.0.0",
     "http-reasons": "0.1.0",
     "iconv-lite": "0.6.3",
     "liquid-json": "0.3.1",
@@ -41,8 +41,13 @@
     "mime-format": "2.0.2",
     "mime-types": "2.1.35",
     "postman-url-encoder": "3.0.7",
+ dependabot/npm_and_yarn/uuid-11.1.0
+    "semver": "7.7.1",
+    "uuid": "11.1.0"
+
     "semver": "7.7.2",
     "uuid": "8.3.2"
+ develop
   },
   "devDependencies": {
     "@postman/shipit": "^0.4.0",
@@ -54,14 +59,69 @@
     "chai": "^5.2.0",
     "chalk": "^5.4.1",
     "dependency-check": "^4.1.0",
+ dependabot/npm_and_yarn/eslint-9.30.0
+    "eslint": "^9.30.0",
+
+ dependabot/npm_and_yarn/eslint-9.27.0
+    "eslint": "^9.27.0",
+
+ dependabot/npm_and_yarn/eslint-9.28.0
+    "eslint": "^9.28.0",
+
+ dependabot/npm_and_yarn/eslint-plugin-jsdoc-50.7.1
     "eslint": "^8.57.0",
+ dependabot/npm_and_yarn/eslint-plugin-jsdoc-51.2.3
+    "eslint-plugin-jsdoc": "^51.2.3",
+
+    "eslint-plugin-jsdoc": "^50.7.1",
+
+ dependabot/npm_and_yarn/eslint-9.29.0
+    "eslint": "^9.29.0",
+ develop
+ develop
+ develop
     "eslint-plugin-jsdoc": "^47.0.2",
+
+    "eslint": "^8.57.0",
+ dependabot/npm_and_yarn/eslint-plugin-jsdoc-51.0.1
+    "eslint-plugin-jsdoc": "^51.0.1",
+
+ dependabot/npm_and_yarn/eslint-plugin-jsdoc-51.0.4
+    "eslint-plugin-jsdoc": "^51.0.4",
+
+    "eslint-plugin-jsdoc": "^50.6.17",
+ develop
+ develop
+ develop
+ develop
+ develop
     "eslint-plugin-lodash": "^8.0.0",
+ dependabot/npm_and_yarn/eslint-plugin-mocha-11.1.0
+    "eslint-plugin-mocha": "^11.1.0",
+    
+ dependabot/npm_and_yarn/eslint-plugin-n-17.18.0
     "eslint-plugin-mocha": "^10.5.0",
+ dependabot/npm_and_yarn/eslint-plugin-n-17.19.0
+    "eslint-plugin-n": "^17.19.0",
+
+ dependabot/npm_and_yarn/eslint-plugin-n-17.20.0
+    "eslint-plugin-n": "^17.20.0",
+
+    "eslint-plugin-n": "^17.18.0",
+
+    "eslint-plugin-mocha": "^11.0.0",
+ develop
     "eslint-plugin-n": "^16.6.2",
+ dependabot/npm_and_yarn/eslint-plugin-security-3.0.1
+    "eslint-plugin-security": "^3.0.1",
+
+ develop
+ develop
+ develop
     "eslint-plugin-security": "^2.1.1",
+ develop
     "js-yaml": "^4.1.0",
-    "jsdoc": "^3.6.11",
+    "jsdoc": "^4.0.4",
     "karma": "^6.4.4",
     "karma-browserify": "^8.1.0",
     "karma-chrome-launcher": "^3.2.0",
@@ -74,7 +134,7 @@
     "postman-request": "^2.88.1-postman.31",
     "recursive-readdir": "^2.2.3",
     "require-all": "^3.0.0",
-    "shelljs": "^0.8.5",
+    "shelljs": "^0.10.0",
     "strip-json-comments": "^5.0.2",
     "tsd-jsdoc": "^2.5.0"
   },
